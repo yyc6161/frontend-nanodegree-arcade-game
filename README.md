@@ -1,6 +1,17 @@
-frontend-nanodegree-arcade-game
-===============================
+#The arcade game
+This is a arcade game that runs on the website, it's very simple. you can play at leisure time.
 
-Students should use this [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) for self-checking their submission. Make sure the functions you write are **object-oriented** - either class functions (like Player and Enemy) or class prototype functions such as Enemy.prototype.checkCollisions, and that the keyword 'this' is used appropriately within your class and class prototype functions to refer to the object the function is called upon. Also be sure that the **readme.md** file is updated with your instructions on both how to 1. Run and 2. Play your arcade game.
+##How to run
+Open **index.html**, then you can play the game on your browser.
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+##Game description
+You play a princess to cross the road, but there are many bugs on the road, you need to be careful to avoid them.
+You can press the '`↑`','`↓`','`←`','`→`' key to control the direction of movement of the princess.
+
+![Game screenshot](images/ss1.png)
+
+**Remember!** Try to avoid touch these bugs on the road so that you can cross the road safely, if you make it, you **win** the game!
+
+If you accidentally hit a bug on the road, you **lose** the game, and you are sent back to the starting point.
+
+_( Of course, even if you win this game, you will be sent back to the starting point too:) )_
